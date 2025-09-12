@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/penceyshop/static/css/main.dabce44b.css",
-    "main.js": "/penceyshop/static/js/main.dbf6f3ac.js",
+    "main.css": "/penceyshop/static/css/main.497cdd57.css",
+    "main.js": "/penceyshop/static/js/main.311fd767.js",
     "static/js/453.efee72fe.chunk.js": "/penceyshop/static/js/453.efee72fe.chunk.js",
     "index.html": "/penceyshop/index.html",
-    "main.dabce44b.css.map": "/penceyshop/static/css/main.dabce44b.css.map",
-    "main.dbf6f3ac.js.map": "/penceyshop/static/js/main.dbf6f3ac.js.map",
+    "main.497cdd57.css.map": "/penceyshop/static/css/main.497cdd57.css.map",
+    "main.311fd767.js.map": "/penceyshop/static/js/main.311fd767.js.map",
     "453.efee72fe.chunk.js.map": "/penceyshop/static/js/453.efee72fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dabce44b.css",
-    "static/js/main.dbf6f3ac.js"
+    "static/css/main.497cdd57.css",
+    "static/js/main.311fd767.js"
   ]
 }
